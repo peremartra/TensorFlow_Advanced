@@ -27,4 +27,6 @@ Recently, Kaggle has introduced the possibility of using two GPUs in our noteboo
 The technique of using more than one GPU on a single machine is called MirroredStrategy. It is the one we are going to use in Kaggle. Or on our machine if we had more than one GPU.
 * Notebook: [using-multiple-gpu-s-with-keras-on-kaggle.ipynb](https://github.com/peremartra/TensorFlow_Advanced/blob/main/using-multiple-gpu-s-with-keras-on-kaggle.ipynb)
 
-By the moment that's all! 
+By the moment, that's all!
+
+If you want to continue your learning path, I recommend you my [repository about GANs](https://github.com/peremartra/GANs) with 4 notebooks organized as an Introductory course to GenerativeAI. 
